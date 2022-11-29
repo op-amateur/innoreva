@@ -1,0 +1,95 @@
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #99ccff;
+  font-size: 14px;
+  color: #767676;
+}
+.left {
+    float: left;
+    width: 370px;
+    overflow: auto;
+}
+.right1 {
+    float: right;
+    background: #ffff33;
+    width: 950px;
+    text-align:center;
+    height:670px;
+    overflow: auto;
+    margin: 10px;
+}
+.right2 {
+    float: right;
+    background:#FFDAB9;
+    width: 950px;
+    text-align: center;
+    height:670px;
+    overflow: auto;
+    margin: 10px;
+}
+.divider-small {
+  background-color: #ffff99;
+  width:400 px;
+  margin: 10px;
+  text-align: center;
+  padding: 14px 36px;
+}
+.light-bg {
+  background-image: url("img6.jpg");
+  background-size: contain;
+  height:200px;
+}
+.dark-bg {
+  background-color: #434343;
+}
+ul{
+  list-style-type: none;
+  margin: 10;
+  padding: 10;
+  overflow: hidden;
+  background-color: #B2FF46;
+}
+li {
+  float: left;
+  font-size:20px;
+  color: black;
+  text-align: center;
+  font-family: Lucida Handwriting;
+}
+li a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 36px;
+  text-decoration: none;
+}
+.filter li .button {
+  padding: 10px 15px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+h1 {
+  font-size: 46px;
+  font-family: Lucida Handwriting;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-size: 26px;
+  font-family: Lucida Handwriting;
+  color:#800080;
+  text-align: center;
+}
+.gallery {
+  margin: 5px;
+  border: 10px solid #00bfff;
+  float: left;
+}
