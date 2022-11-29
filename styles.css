@@ -10,13 +10,13 @@ body {
 }
 .left {
     float: left;
-    width: 42%;
+    width: 370 px;
     overflow: auto;
 }
 .right1 {
     float: right;
     background: #ffff33;
-    width: 56%;
+    width: 950 px;
     text-align:center;
     height:670px;
     overflow: auto;
@@ -25,7 +25,7 @@ body {
 .right2 {
     float: right;
     background:#FFDAB9;
-    width:56%;
+    width:950px;
     text-align: center;
     height:670px;
     overflow: auto;
@@ -33,7 +33,7 @@ body {
 }
 .divider-small {
   background-color: #ffff99;
-  width:42%;
+  width:400 px;
   margin: 10px;
   text-align: center;
   padding: 14px 36px;
