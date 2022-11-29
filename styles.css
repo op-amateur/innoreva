@@ -10,30 +10,30 @@ body {
 }
 .left {
     float: left;
-    width: 370px;
+    width: 470px;
     overflow: auto;
 }
 .right1 {
     float: right;
     background: #ffff33;
-    width: 950px;
+    width: 1000px;
     text-align:center;
-    height:670px;
+    height:900px;
     overflow: auto;
     margin: 10px;
 }
 .right2 {
     float: right;
     background:#FFDAB9;
-    width:950px;
+    width:1000px;
     text-align: center;
-    height:670px;
+    height:900px;
     overflow: auto;
     margin: 10px;
 }
 .divider-small {
   background-color: #ffff99;
-  width:400px;
+  width:370px;
   margin: 10px;
   text-align: center;
   padding: 14px 36px;
@@ -89,7 +89,7 @@ h2 {
   text-align: center;
 }
 .gallery {
-  margin: 5px;
+  margin: 35px;
   border: 10px solid #00bfff;
   float: left;
 }
